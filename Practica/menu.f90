@@ -253,6 +253,8 @@ module CrearInforme
         end if
     
         ! Imprimir el encabezado del informe en el archivo
+        write(unidad_archivo, '(A22)') "Informe de Inventario:"
+        write(unidad_archivo, *) ""
         write(unidad_archivo, '(A15, A11, A18, A15, A14)') "Equipo", "Cantidad", "Precio Unitario", "Valor Total", "Ubicación"
         write(unidad_archivo, *) "--------------------------------------------------------------------------"
     
