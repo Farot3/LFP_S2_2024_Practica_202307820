@@ -1,0 +1,12 @@
+         Equipo   Cantidad   Precio Unitario    Valor Total    Ubicación
+ --------------------------------------------------------------------------
+        Lapices        350     Q        2.50    Q    875.00       BodegaA
+   Computadoras         10     Q      300.00    Q   3000.00       BodegaB
+    Escritorios        110     Q      100.75    Q  11082.50       BodegaC
+        Laptops        800     Q       45.15    Q  36120.00       BodegaH
+      Lapiceros         58     Q       85.40    Q   4953.20       BodegaA
+       Cuaderno          5     Q       47.30    Q    236.50       BodegaX
+   Computadoras         25     Q      300.00    Q   7500.00       BodegaW
+      Audifonos        177     Q       45.00    Q   7965.00       BodegaA
+         Mouses         15     Q       77.45    Q   1161.75       BodegaB
+    Escritorios         87     Q       45.89    Q   3992.43       BodegaL

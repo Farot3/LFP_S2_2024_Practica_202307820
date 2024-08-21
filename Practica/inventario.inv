@@ -1,0 +1,10 @@
+crear_equipo Lapices;100;2.50;BodegaA
+crear_equipo Computadoras;50;300.00;BodegaB
+crear_equipo Escritorios;75;100.75;BodegaC
+crear_equipo Laptops;800;45.15;BodegaH
+crear_equipo Lapiceros;58;85.40;BodegaA
+crear_equipo Cuaderno;80;47.30;BodegaX
+crear_equipo Computadoras;25;300.00;BodegaW
+crear_equipo Audifonos;67;45.00;BodegaA
+crear_equipo Mouses;15;77.45;BodegaB
+crear_equipo Escritorios;87;45.89;BodegaL
