@@ -187,7 +187,7 @@ module ProcesarInstrucciones
         end do
 
         if (encontrado == 0) then
-            print *, "Error: No se encontro el equipo"
+            print *, "Error: No se encontro el equipo: ", trim(nombre), " en la ubicacion: ", trim(ubicacion)
         end if
     end subroutine agregar_stock
 
@@ -210,7 +210,7 @@ module ProcesarInstrucciones
                         print *, "El equipo se ha agotado"
                     end if
                 else
-                    print *, "Error: La cantidad a eliminar es mayor que la cantidad disponible"
+                    print *, "Error: La cantidad a eliminar es mayor que la cantidad disponible en el equipo: ", trim(nombre), " en la ubicacion: ", trim(ubicacion)
                 end if
                 print *, ""
                 exit
@@ -218,7 +218,7 @@ module ProcesarInstrucciones
         end do
 
         if (encontrado == 0) then
-            print *, "Error: No se encontro el equipo"
+            print *, "Error: No se encontro el equipo: ", trim(nombre), " en la ubicacion: ", trim(ubicacion)
         end if
     end subroutine eliminar_equipo
 

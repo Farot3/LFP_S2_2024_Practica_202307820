@@ -2,13 +2,28 @@ Informe de Inventario:
  
          Equipo   Cantidad   Precio Unitario    Valor Total    Ubicación
  --------------------------------------------------------------------------
-        Lapices        150     Q        2.50    Q    375.00       BodegaA
-   Computadoras         30     Q      300.00    Q   9000.00       BodegaB
-    Escritorios         82     Q      100.75    Q   8261.50       BodegaC
-        Laptops        800     Q       45.15    Q  36120.00       BodegaH
-      Lapiceros         58     Q       85.40    Q   4953.20       BodegaA
-       Cuaderno         55     Q       47.30    Q   2601.50       BodegaX
-   Computadoras         25     Q      300.00    Q   7500.00       BodegaW
-      Audifonos         89     Q       45.00    Q   4005.00       BodegaA
-         Mouses         15     Q       77.45    Q   1161.75       BodegaB
-    Escritorios         87     Q       45.89    Q   3992.43       BodegaL
+        Equipo1        152     Q     2976.08    Q 452364.19       BodegaY
+        Equipo1        181     Q     4772.31    Q 863788.12       BodegaZ
+        Equipo4         63     Q     3747.14    Q 236069.81       BodegaX
+        Equipo5        237     Q     2311.81    Q 547899.00       BodegaX
+        Equipo6         86     Q     4329.62    Q 372347.34       BodegaY
+        Equipo7        175     Q      381.26    Q  66720.50       BodegaZ
+        Equipo9        154     Q      518.65    Q  79872.10       BodegaX
+       Equipo10        168     Q     2953.85    Q 496246.81       BodegaZ
+       Equipo11        200     Q     2909.88    Q 581976.00       BodegaW
+       Equipo12        179     Q     3274.22    Q 586085.38       BodegaW
+       Equipo13        176     Q       79.51    Q  13993.76       BodegaW
+       Equipo14         61     Q     2927.38    Q 178570.17       BodegaZ
+       Equipo15        114     Q     4839.75    Q 551731.50       BodegaX
+       Equipo17        103     Q     4113.68    Q 423709.06       BodegaZ
+       Equipo18         70     Q     4054.15    Q 283790.50       BodegaX
+       Equipo19         87     Q     1563.08    Q 135987.95       BodegaW
+       Equipo20        168     Q     2491.75    Q 418614.00       BodegaY
+       Equipo22        140     Q     3035.39    Q 424954.59       BodegaX
+       Equipo23        171     Q     4652.91    Q 795647.62       BodegaX
+       Equipo24         84     Q     2487.42    Q 208943.28       BodegaW
+       Equipo26         81     Q     1269.98    Q 102868.38       BodegaX
+       Equipo27        158     Q      168.18    Q  26572.44       BodegaY
+       Equipo28        127     Q     4567.50    Q 580072.50       BodegaZ
+       Equipo29        167     Q     4931.10    Q 823493.69       BodegaY
+       Equipo30        183     Q     1884.28    Q 344823.25       BodegaW
